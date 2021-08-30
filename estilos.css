@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+
+nav{
+    background:coral; 
+}
+.Menu{
+    text-align: center;
+    margin: 0;
+}
+.Menu li{
+display: inline-block;
+}
+
+.Menu a{
+    padding: 40px;
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+.Menu a:hover{
+    background:indianred ;
+}
+
+.Separacion {
+    background: paleturquoise;
+    overflow: hidden;
+    text-align: center;
+}
